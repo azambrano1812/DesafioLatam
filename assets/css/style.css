@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Lobster', cursive;
+	font-family: 'Cabin', sans-serif;
+	color: #373A3C;
+}
+
+#yosoy{
+	color:white;
+}
+
+.bg-purple{
+	background-color: #660066	;
+}
+
+.back{
+	z-index: -1;
+}
+
+#yosoy{
+	
+	margin-top:-10rem;
+	margin-bottom: 5rem;
+
+}
+
+.cabinB, h5{
+	font-family:'Cabin';
+	font-weight: 700;
+}
+
+.lobster, h2{
+	font-family:'Lobster';
+	font-weight: 400;
+}
+
